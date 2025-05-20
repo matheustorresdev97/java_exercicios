@@ -1,5 +1,7 @@
 package poo.seguradora.servico;
 
+import poo.seguradora.modelo.BemSeguravel;
+
 public class ServicoPropostaSeguro {
 
     public void emitir(BemSeguravel bem) {
